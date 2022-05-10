@@ -1,8 +1,8 @@
 #Sobre
- Este projeto possui testes automatizados de API, da prova técnica do Sicredi.
-
+ - Este projeto possui testes automatizados de API, da prova técnica do Sicredi.
  Nele foram feitos testes automatizados na parte de Restrição e Simulação, baseando-se nas regras passadas no Readme do projeto da API
 e na documentação do swagger.
+
 #Requisitos
 - Java 8+ JDK deve estar instalado
 - Maven deve estar instalado e configurado no path da aplicação
